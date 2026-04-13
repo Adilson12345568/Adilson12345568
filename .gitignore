@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Images
+*.png
+
+# macOS system files
+.DS_Store
+
+# Other standard Python artifacts
+*.egg-info/
+*.egg
+.Python
